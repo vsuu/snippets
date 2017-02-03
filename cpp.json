@@ -152,7 +152,7 @@
 			"namespace ${MyNamespace}",
 			"{",
 			"\t$1",
-			"}"
+			"} // namespace '${MyNamespace}'"
 		],
 		"description": "Code snippet for namespace"
 	},
